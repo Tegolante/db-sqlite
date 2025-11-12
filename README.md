@@ -1,6 +1,6 @@
 # db-sqlite
 
-Welcome in the repository! This is a simple SQLite DB made for testing
+Welcome in the repository! This is a simple SQLite DB made for testing, all data are only for test purpose
 
 ### 1. Download SQLite DB Browser
 Download SQL Browser from [here](https://sqlitebrowser.org/dl/)
