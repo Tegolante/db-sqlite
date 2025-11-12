@@ -12,8 +12,8 @@ Download SQL Browser from [here](https://sqlitebrowser.org/dl/)
 
 
 
-### 2. Open SQLite DB Browser, select Open Database and select Database.db from your folder
-Open the file\
+### 2. Open the file 
+Open SQLite DB Browser, select Open Database and select Database.db from your downloaded folder
 
 <img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/d9fdc681-d61f-41e1-bfac-68c2ef42d2bc" />
 
