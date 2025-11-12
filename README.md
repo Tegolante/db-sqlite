@@ -3,7 +3,7 @@
 Welcome in the repository! This is a simple SQLite DB made for testing, all data are only for test purpose
 
 ### 1. Download SQLite DB Browser
-Download SQL Browser from [here](https://sqlitebrowser.org/dl/)
+Download SQL Browser from [here](https://sqlitebrowser.org/dl/) and install 
 
 <img width="1911" height="856" alt="image" src="https://github.com/user-attachments/assets/abfc9af5-b21b-40e0-b4bb-3afa19c9a6ea" />
 
