@@ -5,14 +5,17 @@ Welcome in the repository! This is a simple SQLite DB made for testing
 ### 1. Download SQLite DB Browser
 Download SQL Browser from [here](https://sqlitebrowser.org/dl/)
 
-<img width="1901" height="868" alt="image" src="https://github.com/user-attachments/assets/82008a2e-69bd-420a-a7e1-f753e3181c87" />
+
 
 
 
 ### 2. Open SQLite DB Browser, select Open Database and select Database.db from your folder
 Open the file\
 
-<img width="1918" height="986" alt="image" src="https://github.com/user-attachments/assets/2ff17d56-c907-4905-acc4-9e9aa604cc29" />
+<img width="1919" height="983" alt="image" src="https://github.com/user-attachments/assets/6f21d69d-677e-420a-ab8d-489d843c5fe2" />
+
+
+
 
 
 ### 3. Have fun!
