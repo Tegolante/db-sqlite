@@ -39,11 +39,11 @@ Open SQLite DB Browser, select Open Database and select Database.db from your do
 `INSERT INTO table (prop1, prop2, prop3) VALUES (1, 'Insert your title', 'Insert your subtitle');`
 
 **-- DELETE a record**\
-`DELETE FROM tabella WHERE tabella.proprietà = 1`
+`DELETE FROM table WHERE table.property = 1`
 
 **-- UPDATE the property of a record**\
 `UPDATE posts
-SET text = 'Come gestire il budget personale'
+SET text = 'Insert your updated text'
 WHERE id = 5;`
 
 **-- SELECT all data from a table**\
